@@ -23,7 +23,7 @@ By default, the input file is named "index.html" and the output file is named "o
 
 Example usage:
 ```shell
-inline \
+python3 inline.py \
   --javascript src \
   --css styles \
   --entry main.html \
